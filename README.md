@@ -1,7 +1,9 @@
 # BeMineCloset
+
 Shopping Mall
 
 요구사항
+
 - 로그인 / 회원가입 (폼 유효성 검사)
 - 소셜 로그인
 - 검색 기능
